@@ -22,10 +22,10 @@
 
 <br />
 <br />
-
+---
 [instagram]: https://www.instagram.com/lht_18601/
 [facebook]: https://www.facebook.com/ht16801/
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
 [cpp]: http://cpp.sh/
-[github]:  https://github.com/20-8-21-1-14
+[github]: https://github.com/20-8-21-1-14
