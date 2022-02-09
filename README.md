@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 📓 Studying at UIT - VNU HCM city.
 - 👀 I’m interested in MCU movies, games and AI.
-- 🥅 2021 Goals: Learn more, improve myself. 
+- 🥅 2022 Goals: Learn more, improve myself. 
 - ⚡ Fun fact: I love to watch movies and play basketball 🏀
 
 ### Connect with me:
