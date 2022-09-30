@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
-<img align="left" alt="Gitlen" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/gitlen/gitlen.png" />
+<img align="left" alt="Gitlen" width="26px" src="https://static-00.iconduck.com/assets.00/gitlab-logo-illustration-512x471-9t1zrpas.png" />
 
 <br />
 <br />
