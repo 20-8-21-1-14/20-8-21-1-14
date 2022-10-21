@@ -8,7 +8,7 @@
 - 📓 Studying at UIT - VNU HCM city.
 - 👀 I’m interested in MCU movies, games and AI.
 - 🥅 2022 Goals: Learn more, improve myself. 
-- ⚡ Fun fact: I love to watch movies and play basketball 🏀
+- ⚡ hobbies: I love to watch movies and play basketball 🏀
 
 ### Connect with me:
 [<img align="left" alt="HoangThuan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
